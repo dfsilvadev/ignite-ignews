@@ -1,5 +1,5 @@
 {
-  "name": "ignite",
+  "name": "igni",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,18 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "10.2.0",
-    "next-auth": "^3.20.1",
+    "next": "10.2.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "react-icons": "^4.2.0",
-    "sass": "^1.32.12",
-    "stripe": "^8.146.0"
+    "sass": "^1.34.0"
   },
   "devDependencies": {
-    "@types/next-auth": "^3.15.0",
-    "@types/node": "^15.0.1",
-    "@types/react": "^17.0.4",
+    "@types/node": "^15.6.0",
+    "@types/react": "^17.0.6",
     "typescript": "^4.2.4"
   }
 }
