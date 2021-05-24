@@ -1,0 +1,31 @@
+.btn {
+  background: var(--gray-850);
+  height: 3rem;
+  padding: 0 1.5rem;
+  border-radius: 3rem;
+  border: 0;
+  color: var(--white);
+  font-weight: bold;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: filter 0.2s;
+
+  svg {
+    width: 20px;
+    height: 20px;
+  }
+
+  svg.closeIcon {
+    margin-left: 1rem;
+  }
+
+  svg:first-child {
+    margin-right: 1rem;
+  }
+
+  &:hover {
+    filter: brightness(0.8);
+  }
+}
