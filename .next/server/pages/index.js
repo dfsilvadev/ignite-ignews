@@ -72,7 +72,7 @@ eval("// Exports\nmodule.exports = {\n\t\"container\": \"home_container__2W4Hx\"
 /***/ (function(module) {
 
 "use strict";
-module.exports = JSON.parse('{"name":"igni","version":"0.1.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"next":"10.2.2","react":"17.0.2","react-dom":"17.0.2","react-icons":"^4.2.0","sass":"^1.34.0","stripe":"^8.149.0"},"devDependencies":{"@types/node":"^15.6.0","@types/react":"^17.0.6","typescript":"^4.2.4"}}');
+module.exports = JSON.parse('{"name":"igni","version":"0.1.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"next":"10.2.2","next-auth":"^3.23.3","react":"17.0.2","react-dom":"17.0.2","react-icons":"^4.2.0","sass":"^1.34.0","stripe":"^8.149.0"},"devDependencies":{"@types/next-auth":"^3.15.0","@types/node":"^15.6.0","@types/react":"^17.0.6","typescript":"^4.2.4"}}');
 
 /***/ }),
 
