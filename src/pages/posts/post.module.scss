@@ -1,0 +1,67 @@
+.container {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.post {
+  max-width: 720px;
+  margin: 5rem auto 0;
+
+  h1 {
+    font-size: 3.5rem;
+    font-weight: 900;
+  }
+
+  time {
+    display: block;
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    color: var(--gray-300);
+  }
+
+  .postContent {
+    margin-top: 2rem;
+    line-height: 2rem;
+    font-size: 1.125rem;
+    color: var(--gray-100);
+
+    p,
+    ul {
+      margin: 1.5rem 0;
+    }
+    ul {
+      padding-left: 0.5rem;
+      li {
+        margin: 0.5rem 0;
+      }
+    }
+    pre {
+      color: #ccc;
+      background: var(--gray-850);
+      text-shadow: none;
+      font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+      text-align: left;
+      white-space: pre;
+      word-spacing: normal;
+      word-break: normal;
+      word-wrap: normal;
+      font-size: 1rem;
+      line-height: 1.8;
+      -moz-tab-size: 4;
+      -o-tab-size: 4;
+      tab-size: 4;
+      -webkit-hyphens: none;
+      -moz-hyphens: none;
+      -ms-hyphens: none;
+      hyphens: none;
+    }
+    pre {
+      border-radius: 0.5em;
+      padding: 1em;
+      margin: 0.5em 0;
+      overflow: auto;
+      height: auto;
+    }
+  }
+}

@@ -79,6 +79,7 @@ button {
 /* SCROLLBAR */
 ::-webkit-scrollbar {
   width: 7px !important;
+  height: 7px !important;
 }
 ::-webkit-scrollbar-track {
   background: var(--gray-850) !important;
