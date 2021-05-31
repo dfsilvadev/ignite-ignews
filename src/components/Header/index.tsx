@@ -1,4 +1,6 @@
+import { ActiveLink } from "../ActiveLink";
 import { SignInButton } from "../SignInButton";
+
 import styles from "./styles.module.scss";
 
 export function Header() {
@@ -7,8 +9,12 @@ export function Header() {
       <div className={styles.content}>
         <img src="/images/logo.svg" alt="Logo ignews" />
         <nav>
-          <a className={styles.active}>Home</a>
-          <a>Posts</a>
+          <ActiveLink activeClasName={styles.active} href="/">
+            <a>Home</a>
+          </ActiveLink>
+          <ActiveLink activeClasName={styles.active} href="/posts">
+            <a>Posts</a>
+          </ActiveLink>
         </nav>
         <SignInButton />
       </div>
