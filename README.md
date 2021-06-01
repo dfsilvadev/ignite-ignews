@@ -17,7 +17,7 @@
 ## Sobre
 
 <p align="center">
-  <img src="" alt="Home page">
+  <img src="public/images/Home.png" alt="Home page">
 </p>
 
 O ignews é uma aplicação desenvolvida no curso Ignite da Rocketseat para consumo de conteúdo em texto, desenvolvida usando o framework [Next.js](https://nextjs.org/).
