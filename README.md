@@ -1,14 +1,5 @@
 # Ignews App - Ignite Rocketseat
 
-<p>
-  <img src="https://img.shields.io/badge/author-ROCKETSEAT-6E40C9?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/daniel-silva-dxp/next-blog?color=6E40C9&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/daniel-silva-dxp/next-blog?color=6E40C9&style=flat-square">
-  <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
-  </a>
-</p>
-
 ## Tópicos
 
 [Sobre](#sobre)
