@@ -79,7 +79,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Made with :purple_heart: by [Daniel Silva](https://github.com/daniel-silva-dxp)
+<!-- Made with :purple_heart: by [Daniel Silva](https://github.com/daniel-silva-dxp) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Martins-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-dxp/)](https://www.linkedin.com/in/daniel-silva-dxp/)
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Silva-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-dxp/)](https://www.linkedin.com/in/daniel-silva-dxp/)
 [![Gmail Badge](https://img.shields.io/badge/-dfsilva.dxp@gmail.com-6E40C9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dfsilva.dxp@gmail.com)](mailto:dfsilva.dxp@gmail.com)
