@@ -9,7 +9,7 @@ interface SubscriberButtonProps {
   priceId: string;
 }
 
-export function SubscriberButton({ priceId }: SubscriberButtonProps) {
+export function SubscriberButton() {
   const [session] = useSession();
   const router = useRouter();
 
